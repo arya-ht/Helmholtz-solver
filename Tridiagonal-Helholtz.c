@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+/*
+ *created by Arya HajiTaheri
+ */
 #define N 10000
 #define Q 2
 #define U0 0
