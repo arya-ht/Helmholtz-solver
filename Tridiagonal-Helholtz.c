@@ -13,7 +13,7 @@
 #define f(x)  exp(-Q*x)
 void calculate();
 
-int main() {
+int main(void) {
 	calculate();
 	return 0;
 }
